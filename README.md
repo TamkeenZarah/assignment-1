@@ -13,7 +13,10 @@
 ### What are the benefits of Cloud Computing
 
 
-### Sages of Git
+### Stages of Git
+
+
+### Methods of git reset
 
 
 
