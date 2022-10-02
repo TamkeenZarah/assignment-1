@@ -16,3 +16,17 @@
 ### Agile vs DevOps
 
 **Agile** is a software developement method works on iterations while **Devops** is a continous, scalable and wide approach of software deployment.
+
+### Git vs GitHub
+
+**Git** is:
+- a software 
+- locally instaled
+- commandline tool
+- manages edits in git repo 
+
+**GitHub** is:
+- a service
+- UI supported
+- web hosted
+- a space to upload Git repo
