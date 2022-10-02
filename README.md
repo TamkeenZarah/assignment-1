@@ -1,2 +1,7 @@
 # DevOps Assignment-1 Week-1
 
+### 3 methods of git reset are
+  - soft reset:  files are kept and can be staged back automatically
+  - mixed reset: files are reset and moved from git repo to local repo
+  - hard reset:  completely destroy any changes in file and remove them from the local directory
+  
