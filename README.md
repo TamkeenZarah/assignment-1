@@ -43,6 +43,8 @@
 	1- modified: changes has been made in the file but not committed into the database
 	2- staged: a modified file is ready to go in next commit
 	3- committed: modified data has been stored in your local database
+	
+	
 Working Directory >> Staging Phase: a file has been staged
 Staging Phase >> git Repo: a file has been committed
 Git Repo >> Working Directory: Check out the file
